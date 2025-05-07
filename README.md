@@ -1,2 +1,1 @@
-# qa-catalogue-spark
-A Spark based extension of QA Catalogue
+# A Spark based extension of QA Catalogue
